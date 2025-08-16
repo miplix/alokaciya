@@ -1,0 +1,143 @@
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Ratings</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="title">Crypto Ratings</h1>
+            <p class="subtitle">Актуальные рейтинги и статистика</p>
+        </header>
+
+        <div class="fixed-controls">
+            <nav class="tabs">
+                <button class="tab-button active" data-tab="allocation">
+                    <span class="tab-icon">🎯</span>
+                    <span class="tab-text">Allocation</span>
+                </button>
+                <button class="tab-button" data-tab="duplo">
+                    <span class="tab-icon">📊</span>
+                    <span class="tab-text">Duplo</span>
+                </button>
+                <button class="tab-button" data-tab="reputation">
+                    <span class="tab-icon">⭐</span>
+                    <span class="tab-text">Reputation</span>
+                </button>
+                <button class="tab-button" data-tab="staking">
+                    <span class="tab-icon">💎</span>
+                    <span class="tab-text">Staking</span>
+                </button>
+                <button class="tab-button" data-tab="business">
+                    <span class="tab-icon">🏪</span>
+                    <span class="tab-text">Business</span>
+                </button>
+                <button class="tab-button" data-tab="rare">
+                    <span class="tab-icon">💎</span>
+                    <span class="tab-text">Rare NFTs</span>
+                </button>
+                <button class="tab-button" data-tab="award">
+                    <span class="tab-icon">🏆</span>
+                    <span class="tab-text">Awards</span>
+                </button>
+            </nav>
+            
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Поиск по владельцу...">
+            </div>
+        </div>
+
+        <main class="content">
+            <div class="tab-content active" id="allocation">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Вычисление аллокации...</p>
+                </div>
+                <div class="data-container"></div>
+                <div class="no-results" style="display: none; text-align: center; padding: 2rem; color: var(--text-muted); font-size: 0.9rem;">
+                    По данному адресу ни одно условие не проходит - дроп не предусмотрен.
+                </div>
+            </div>
+
+            <div class="tab-content" id="duplo">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Загрузка данных DuploChart...</p>
+                </div>
+                <div class="data-container"></div>
+                <div class="no-results" style="display: none; text-align: center; padding: 1.5rem; color: var(--text-muted); font-size: 0.75rem;">
+                    По данному адресу данные не найдены
+                </div>
+            </div>
+
+            <div class="tab-content" id="reputation">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Загрузка данных Reputation...</p>
+                </div>
+                <div class="data-container"></div>
+                <div class="no-results" style="display: none; text-align: center; padding: 1.5rem; color: var(--text-muted); font-size: 0.75rem;">
+                    По данному адресу данные не найдены
+                </div>
+            </div>
+
+            <div class="tab-content" id="staking">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Загрузка данных Staking...</p>
+                </div>
+                <div class="data-container"></div>
+                <div class="no-results" style="display: none; text-align: center; padding: 1.5rem; color: var(--text-muted); font-size: 0.75rem;">
+                    По данному адресу данные не найдены
+                </div>
+            </div>
+
+            <div class="tab-content" id="business">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Загрузка данных Business...</p>
+                </div>
+                <div class="data-container"></div>
+                <div class="no-results" style="display: none; text-align: center; padding: 1.5rem; color: var(--text-muted); font-size: 0.75rem;">
+                    По данному адресу данные не найдены
+                </div>
+            </div>
+
+            <div class="tab-content" id="rare">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Загрузка данных Rare NFTs...</p>
+                </div>
+                <div class="data-container"></div>
+                <div class="no-results" style="display: none; text-align: center; padding: 1.5rem; color: var(--text-muted); font-size: 0.75rem;">
+                    По данному адресу данные не найдены
+                </div>
+            </div>
+
+            <div class="tab-content" id="award">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Загрузка данных Award NFTs...</p>
+                </div>
+                <div class="data-container"></div>
+                <div class="no-results" style="display: none; text-align: center; padding: 1.5rem; color: var(--text-muted); font-size: 0.75rem;">
+                    По данному адресу данные не найдены
+                </div>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <button class="refresh-btn" onclick="refreshAllData()">
+                <span class="refresh-icon">🔄</span>
+                Обновить
+            </button>
+            <p class="last-updated">Последнее: <span id="last-updated">--</span></p>
+        </footer>
+    </div>
+
+    <script type="module" src="script.js"></script>
+</body>
+</html>
