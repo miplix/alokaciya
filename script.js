@@ -27,85 +27,213 @@ const CONFIG = {
         'uncommon': 0.390625, '(common)': 0.1953125
     },
     RARE_NFT_TITLES: [
-        "Ancestral sword (mystical)", "Fate Generator (Unique)", "Kingdom (Mystical)",
-        "Mirror portal to Shambhala (unique)", "Necklace of Elysium (Mystical)",
-        "Transformer of Worlds (mystic)", "Very Mega Super Puper Elite Tangerines (unique)",
-        "Milk giraffe (1lv)", "real whale (winner)", "Real Whale (Winner)",
-        "Theatronom (unique)", "Universal Soul (unique)", "Yupik Slippers (Unique)",
-        "YupLand Pump (Unique)", "1 Еon of Ether - Ancient", "Black Pegasus - Unicorn (unicorn)",
-        "Fiery Pegasus - Unicorn (unicorn)", "Fire duvet cover (unique)", "Golden Pegasus - Unicorn (unicorn)"
+  "Ancestral sword (mystical)"
+"Fate Generator (Unique)"
+"Kingdom (Mystical)"
+"Necklace of Elysium (Mystical)"
+"Transformer of Worlds (mystic)"
+"Very Mega Super Puper Elite Tangerines (unique)"
+"Milk giraffe (1lv) "
+"real whale (winner)"
+"Real Whale (Winner) "
+"Theatronom (unique)"
+"Universal Soul (unique)"
+"Universal Soul (unique) "
+"Yupik Slippers (Unique)"
+"YupLand Pump (Unique) "
+"1 Еon of Ether - Ancient "
+"1 Eon of Ether - Ancient"
+"2nd Eon of Ether - Ancient"
+"3rd Eon of Ether - Ancient"
+"4th Eon of Earth - The Ancient"
+"5th Eon of Ether - Ancient"
+"6th Eon of Ether - Ancient"
+"7th Eon of Ether - Ancient"
+"7th Eon of Ether - The Ancient One"
+"Black Pegasus - Unicorn (unicorn)"
+"Fiery Pegasus - Unicorn (unicorn) "
+"Fire duvet cover (unique)"
+"Golden Pegasus - Unicorn (unicorn) "
+"Honorary handshake (legendary) "
+"Key to Shambhala (Unique)"
+"Milk giraffe (1lv)"
+"Purple Pegasus - Unicorn (unicorn) "
+"Scroll of the Mage (Unique)"
+"Snow Pegasus - Unicorn (unicorn) "
+"Space - Unicorn (unicorn) "
+"Upper Upland Pass (Elite)"
+"Victory unicorn (unicorn)"
+"White Pegasus - Unicorn (unicorn) "
+"YupLand Pump (Legendary)"
+"Magic brush (unique)"
+"Swap Table (Unique)"
+"Yupik Slippers (legendary)"
+"100 pairs of slippers (common)"
+"Card Set (Legendary)"
+"Designer Worlds (unique)"
+"Door to Dreams (Epic)"
+"Magic Mantle (Unique)"
+"Moth Skeleton (Epic)"
+"Teapot - Genie Generator (rare)"
+"Yupidrasil Tree Dew (Unique)"
+"Yupik gem"
+"Yupik Slippers (Epic)"
+"Подводные очки (Легендарные)"
+"Clock - Eons (Legendary)"
+"Diploma of Strategic Magician"
+"Lots of balalaikas (useless)"
+"Magic Pot (legendary)"
+"Mountain (unique)"
+"Pug toy (unique)"
+"Universal egg (legendary)"
+"Yupik Slippers (Rare)"
+"Подъемник курса (Эпический)"
+"Great Yupik Happiness (Priceless) "
+"Lord's Bed (Epic)"
+"Magic brush (legendary)"
+"Pump power (epic)"
+"Huge Stone (Epic)"
+"Magician's Set (Unique)"
+"Morpheus Chair (Epic)"
+"Pug Kennel (legendary)"
+"Pump magic (uncommon)"
+"Reflector - solar stars (epic)"
+"Unicorn Factory (Legendary)"
+"Levitation Goggles (Legendary)"
+"5 метровый шкаф (необычный)"
+"Генератор волн (обычный)"
+"Ядро Атлантиды (Редкое)"
+"Book - Yupik Imagination (Rare)"
+"Buckwheat assembly (Legendary)"
+"Fair Dice (Rare) "
+"Fog Generator (Unique) "
+"Lamp (legendary)"
+"Lantern (legendary)"
+"Pug Bone (Epic)"
+"Speech synthesizer (epic)"
+"World Generator (Rare)"
+"Yupik Happiness (Priceless) "
+"Levitation Goggles (Epic)"
+"Stool (uncommon)"
+"Цветок Атлантиды (необычный)"
+"Air Purity Meter (Epic)"
+"Door to Sherlock's house (Rare)"
+"Lamp (Epic)"
+"Lantern (Epic)"
+"Larger Stone (Rare)"
+"Magic brush (epic)"
+"The most unusual carpet (legendary)"
+"Treat Bowl (Rare)"
+"Book - solution to conspiracies (common) "
+"Диван в форме дупла (редкий)"
+"Art school diploma"
+"Bed with a hollow (Epic)"
+"Duvet cover Magic (legendary) "
+"Lamp (rare)"
+"Lantern (rare)"
+"Levitation Goggles (Rare)"
+"Sphere - Reason (uncommon)"
+"Yup'ik Carpet (Rare)"
+"Yup'ik Chair (Rare) "
+"Yupik barrier (rare)"
+" 0A:@KBK9 10;0AB - 3C@"
+"Раскрытый баласт - 3ур"
+"Lantern (Uncommon)"
+"Levitation Goggles (Uncommon)"
+"Magic brush (rare)"
+"Talking Bed (uncommon)"
+"Table - Chestnut Generator (Rare)"
+"Arcanum Integra (clan) "
+"Artifact Dragon Tooth Stormfang (clan)"
+"Artifact with the Ixdivite crystal (clan)"
+"Astrolabes of the ancients (clan)"
+"Certificate of unknown level"
+"Duvet cover Magic (comon) "
+"Heritage of the Sun (clan)"
+"Kailani and Buckwheat (clan)"
+"Lantern (Common)"
+"Laughter Meter (clan) "
+"Levitation Goggles (Common)"
+"Magic brush (uncommon)"
+"Magic light stone (clan)"
+"Magic light stone (clan) "
+"Neuron Manas (clan) "
+"Pandora's Box (clan) "
+"Precious Fire Lantern (Clan)"
+"Reviver - grecha (uncommon)"
+"Ring of Power (clan)"
+"Sphere - Mind (common)"
+"Sphere - Mind (Normal)"
+"Sphere - Reason (common)"
+"The Deep water of Atlantis (clan)"
+"Yup'ik Chips (rare)"
+"YupElf hat (clan)"
+"Безумная Греча Кайлани (обычная)"
+"Buckwheat (rare)"
+"Duvet cover Magic (uncommon)"
+"Grecha grinder (rare)"
+"Magic brush (common)"
+"Деревянная ложка (бесполезная)"
+"Зелёный человек (Нужна защита)"
+"Chair with egg stand (unique)"
+"Glarungs (100 water)"
+"Hollow Key (Legendary)"
+"House for the Glarungs (common) "
+"Magic Slingshot (unique)"
+"Super Dupla generator +50% (epic)"
+"ticket to buy glarungs"
+"Ticket to buy Glarungs "
+"Yupik Egg (legendary) "
     ]
 };
 
 let cache = {};
-let activeTab = 'allocation';
-let searchQuery = '';
+let isValidating = false;
+let allocationData = [];
 
 document.addEventListener('DOMContentLoaded', async () => {
-    setupTabs();
-    setupSearch();
+    showLoadingPopup();
     await loadAllData();
+    hideLoadingPopup();
+    setupSearch();
 });
 
-function setupTabs() {
-    const tabButtons = document.querySelectorAll('.tab-button');
-    
-    tabButtons.forEach(button => {
-        button.addEventListener('click', () => {
-            const tabName = button.dataset.tab;
-            
-            if (activeTab === tabName) {
-                hideTab(tabName);
-                button.classList.remove('active');
-                activeTab = null;
-            } else {
-                showTab(tabName);
-                
-                tabButtons.forEach(btn => btn.classList.remove('active'));
-                button.classList.add('active');
-                activeTab = tabName;
-            }
-        });
-    });
+function showLoadingPopup() {
+    document.getElementById('loading-popup').style.display = 'flex';
+}
+
+function hideLoadingPopup() {
+    document.getElementById('loading-popup').style.display = 'none';
 }
 
 function setupSearch() {
     const searchInput = document.getElementById('search-input');
-    searchInput.addEventListener('input', (e) => {
-        searchQuery = e.target.value.toLowerCase();
-        filterData();
-    });
-}
-
-function filterByOwner(data, query) {
-    if (!data || !Array.isArray(data)) return data;
-
-    const filtered = data.filter(item => {
-        const owner = item.owner || item.owner_id || '';
-        return owner.toLowerCase().includes(query);
-    });
-
-    return filtered;
-}
-
-function filterData() {
-    if (!searchQuery) {
-        renderData(activeTab, cache[activeTab]);
-        return;
-    }
-
-    const filteredData = filterByOwner(cache[activeTab], searchQuery);
-    renderData(activeTab, filteredData);
+    const searchHint = document.getElementById('search-hint');
     
-    // Handle no results message consistently across all tabs
-    const noResultsEl = document.querySelector(`#${activeTab} .no-results`);
-    if (noResultsEl) {
-        if (filteredData.length === 0) {
-            noResultsEl.style.display = 'block';
-        } else {
-            noResultsEl.style.display = 'none';
+    searchInput.addEventListener('input', (e) => {
+        const address = e.target.value.trim().toLowerCase();
+        
+        if (!address) {
+            searchHint.textContent = 'Введите корректный адрес';
+            searchHint.style.color = 'var(--text-muted)';
+            hideResult();
+            return;
         }
-    }
+        
+        if (!isValidAddress(address)) {
+            searchHint.textContent = 'введите корректный адрес';
+            searchHint.style.color = '#ff6b6b';
+            hideResult();
+            return;
+        }
+        
+        searchHint.textContent = '';
+        checkAllocation(address);
+    });
+}
+
+function isValidAddress(address) {
+    return address.length === 64 || address.includes('.near') || address.includes('.tg');
 }
 
 async function loadAllData() {
@@ -115,35 +243,7 @@ async function loadAllData() {
         await loadData(type);
     }
     
-    if (types.every(t => cache[t])) {
-        const allocationData = generateAllocationData();
-        cache.allocation = allocationData;
-        
-        const loading = document.querySelector('#allocation .loading');
-        if (loading) loading.style.display = 'none';
-        
-        renderData('allocation', allocationData);
-    }
-    
-    updateLastUpdated();
-}
-
-function showTab(tabName) {
-    document.querySelectorAll('.tab-content').forEach(content => {
-        content.classList.remove('active');
-    });
-    
-    const content = document.getElementById(tabName);
-    content.classList.add('active');
-    
-    if (cache[tabName]) {
-        renderData(tabName, filterByOwner(cache[tabName], searchQuery));
-    }
-}
-
-function hideTab(tabName) {
-    const content = document.getElementById(tabName);
-    content.classList.remove('active');
+    allocationData = await generateAllocationData();
 }
 
 async function loadData(type) {
@@ -152,10 +252,6 @@ async function loadData(type) {
     try {
         const data = await fetchData(type);
         cache[type] = data;
-        
-        const loading = document.querySelector(`#${type} .loading`);
-        if (loading) loading.style.display = 'none';
-        
     } catch (error) {
         console.error(`Error loading ${type}:`, error);
     }
@@ -167,196 +263,145 @@ async function fetchData(type) {
     return await response.json();
 }
 
-function renderData(type, data) {
-    const container = document.querySelector(`#${type} .data-container`);
-    let html = '<table class="data-table">';
+async function checkAllocation(address) {
+    if (isValidating) return;
     
-    switch(type) {
-        case 'allocation':
-            html += `
-                <thead>
-                    <tr>
-                        <th style="width: 40px;">Ранг</th>
-                        <th style="width: 25%;">Владелец</th>
-                        <th>Duplo</th>
-                        <th>Reput</th>
-                        <th>Stake</th>
-                        <th>Business</th>
-                        <th>Rare</th>
-                        <th>Award</th>
-                        <th>Matches</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    ${(data || []).map((item, i) => `
-                        <tr>
-                            <td class="rank">#${i + 1}</td>
-                            <td class="owner-cell" data-full-address="${item.owner}" title="Click to copy">${truncateAddress(item.owner)}</td>
-                            <td>${item.duplo}</td>
-                            <td>${item.reputation}</td>
-                            <td>${item.staking}</td>
-                            <td>${item.business}</td>
-                            <td>${item.rare}</td>
-                            <td>${item.award}</td>
-                            <td>${item.matches}</td>
-                        </tr>
-                    `).join('')}
-                </tbody>
-            `;
-            break;
-            
-        case 'duplo':
-            const duploData = processDuploData(data);
-            html += `
-                <thead>
-                    <tr>
-                        <th style="width: 40px;">Ранг</th>
-                        <th style="width: 25%;">Владелец</th>
-                        <th>Final Sum</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    ${(duploData || []).map((item, i) => `
-                        <tr>
-                            <td class="rank">#${i + 1}</td>
-                            <td class="owner-cell" data-full-address="${item.owner}" title="Click to copy">${truncateAddress(item.owner)}</td>
-                            <td>${formatLargeNumber(item.final_sum)}</td>
-                        </tr>
-                    `).join('')}
-                </tbody>
-            `;
-            break;
-            
-        case 'reputation':
-            const repData = processReputationData(data);
-            html += `
-                <thead>
-                    <tr>
-                        <th style="width: 40px;">Ранг</th>
-                        <th style="width: 25%;">Владелец</th>
-                        <th>Репутация</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    ${(repData || []).map((item, i) => `
-                        <tr>
-                            <td class="rank">#${i + 1}</td>
-                            <td class="owner-cell" data-full-address="${item.owner}" title="Click to copy">${truncateAddress(item.owner)}</td>
-                            <td>${item.total_reputation}</td>
-                        </tr>
-                    `).join('')}
-                </tbody>
-            `;
-            break;
-            
-        case 'staking':
-            const stakingData = processStakingData(data);
-            html += `
-                <thead>
-                    <tr>
-                        <th style="width: 40px;">Ранг</th>
-                        <th style="width: 25%;">Владелец</th>
-                        <th>Power</th>
-                        <th>NFT Count</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    ${(stakingData || []).map((item, i) => `
-                        <tr>
-                            <td class="rank">#${i + 1}</td>
-                            <td class="owner-cell" data-full-address="${item.owner_id}" title="Click to copy">${truncateAddress(item.owner_id)}</td>
-                            <td>${item.power.toFixed(2)}</td>
-                            <td>${item.count}</td>
-                        </tr>
-                    `).join('')}
-                </tbody>
-            `;
-            break;
-            
-        case 'business':
-            const businessData = processBusinessData(data);
-            html += `
-                <thead>
-                    <tr>
-                        <th style="width: 40px;">Ранг</th>
-                        <th style="width: 25%;">Владелец</th>
-                        <th>Интеллект</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    ${(businessData || []).map((item, i) => `
-                        <tr>
-                            <td class="rank">#${i + 1}</td>
-                            <td class="owner-cell" data-full-address="${item.owner}" title="Click to copy">${truncateAddress(item.owner)}</td>
-                            <td>+${item.intellect}</td>
-                        </tr>
-                    `).join('')}
-                </tbody>
-            `;
-            break;
-
-        case 'rare':
-            const rareData = processRareData(data);
-            html += `
-                <thead>
-                    <tr>
-                        <th style="width: 40px;">Ранг</th>
-                        <th style="width: 25%;">Владелец</th>
-                        <th>Unique</th>
-                        <th>Percent</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    ${(rareData || []).map((item, i) => `
-                        <tr>
-                            <td class="rank">#${i + 1}</td>
-                            <td class="owner-cell" data-full-address="${item.owner}" title="Click to copy">${truncateAddress(item.owner)}</td>
-                            <td>${item.uniqueCount}</td>
-                            <td>${item.percent}</td>
-                        </tr>
-                    `).join('')}
-                </tbody>
-            `;
-            break;
-
-        case 'award':
-            const awardData = processAwardData(data);
-            html += `
-                <thead>
-                    <tr>
-                        <th style="width: 40px;">Ранг</th>
-                        <th style="width: 25%;">Владелец</th>
-                        <th>Award %</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    ${(awardData || []).map((item, i) => `
-                        <tr>
-                            <td class="rank">#${i + 1}</td>
-                            <td class="owner-cell" data-full-address="${item.owner}" title="Click to copy">${truncateAddress(item.owner)}</td>
-                            <td>${item.awardPercent}</td>
-                        </tr>
-                    `).join('')}
-                </tbody>
-            `;
-            break;
+    isValidating = true;
+    
+    const exactMatch = allocationData.find(item => item.owner.toLowerCase() === address);
+    
+    if (exactMatch) {
+        showResult(exactMatch);
+    } else {
+        showNoAllocation();
     }
     
-    html += '</table>';
-    container.innerHTML = html;
+    isValidating = false;
+}
+
+function toggleMatches() {
+    const content = document.getElementById('matches-content');
+    const arrow = document.getElementById('dropdown-arrow');
     
-    // Add click handlers for copy functionality
-    container.querySelectorAll('.owner-cell').forEach(cell => {
-        cell.addEventListener('click', (e) => {
-            const fullAddress = e.target.dataset.fullAddress;
-            navigator.clipboard.writeText(fullAddress).then(() => {
-                const originalText = e.target.textContent;
-                e.target.textContent = 'copied!';
-                setTimeout(() => {
-                    e.target.textContent = originalText;
-                }, 1000);
-            });
+    content.classList.toggle('hidden');
+    arrow.classList.toggle('open');
+}
+
+function calculateChance(data) {
+    let points = 0;
+    
+    // Points for checks
+    if (data.reputation) points += 2;
+    if (data.duplo) points += 1;
+    if (data.business) points += 1;
+    if (data.staking) points += 1;
+    
+    // Points for rare NFTs
+    const rarePercent = parseFloat(data.rare);
+    if (rarePercent >= 70) points += 10;
+    else if (rarePercent >= 50) points += 6;
+    else if (rarePercent >= 40) points += 5;
+    else if (rarePercent >= 20) points += 4;
+    else if (rarePercent >= 15) points += 3;
+    else if (rarePercent >= 10) points += 2;
+    else if (rarePercent > 0) points += 1;
+    
+    // Points for award NFTs
+    const awardPercent = parseFloat(data.award);
+    if (awardPercent >= 80) points += 6;
+    else if (awardPercent >= 60) points += 4;
+    else if (awardPercent >= 40) points += 3;
+    else if (awardPercent >= 20) points += 2;
+    else if (awardPercent > 0) points += 1;
+    
+    // Exception rule for reputation
+    if (points === 2 && data.reputation) {
+        return { text: 'средний', class: 'medium', points: 3 };
+    }
+    
+    // Map points to chance levels
+    const chanceMap = {
+        0: { text: 'очень низкий', class: 'very-low' },
+        1: { text: 'низкий', class: 'low' },
+        2: { text: 'ниже среднего', class: 'below-medium' },
+        3: { text: 'средний', class: 'medium' },
+        6: { text: 'высокий', class: 'high' },
+        10: { text: 'очень высокий', class: 'very-high' },
+        14: { text: 'платина', class: 'platinum' }
+    };
+    
+    // Find the highest matching points
+    const sortedPoints = Object.keys(chanceMap)
+        .map(Number)
+        .sort((a, b) => b - a)
+        .find(p => p <= points);
+    
+    return chanceMap[sortedPoints] || chanceMap[0];
+}
+
+async function generateAllocationData() {
+    const types = ['duplo', 'reputation', 'staking', 'business', 'rare', 'award'];
+    
+    const duploData = processDuploData(cache.duplo);
+    const duploOwners = new Set(duploData.map(item => item.owner));
+    
+    const reputationData = processReputationData(cache.reputation);
+    const reputationOwners = new Set(reputationData.map(item => item.owner));
+    
+    const stakingData = processStakingData(cache.staking);
+    const stakingOwners = new Set();
+    stakingData.forEach(item => {
+        if (item.count > 9) {
+            stakingOwners.add(item.owner_id);
+        }
+    });
+    
+    const businessData = processBusinessData(cache.business);
+    const businessOwners = new Set(businessData.map(item => item.owner));
+
+    const rareData = processRareData(cache.rare);
+    const rareMap = new Map(rareData.map(item => [item.owner, item.percent]));
+
+    const awardData = processAwardData(cache.award);
+    const awardMap = new Map(awardData.map(item => [item.owner, item.awardPercent]));
+
+    const allOwners = new Set([
+        ...duploOwners,
+        ...reputationOwners,
+        ...stakingOwners,
+        ...businessOwners,
+        ...rareMap.keys(),
+        ...awardMap.keys()
+    ]);
+    
+    const allocationData = [];
+    
+    for (const owner of allOwners) {
+        const duplo = duploOwners.has(owner);
+        const reputation = reputationOwners.has(owner);
+        const staking = stakingOwners.has(owner);
+        const business = businessOwners.has(owner);
+        
+        const matches = [duplo, reputation, staking, business].filter(v => v).length;
+        const rare = rareMap.get(owner) || '0%';
+        const award = awardMap.get(owner) || '0%';
+        
+        allocationData.push({
+            owner,
+            duplo,
+            reputation,
+            staking,
+            business,
+            rare,
+            award,
+            matches
         });
+    }
+    
+    return allocationData.sort((a, b) => {
+        if (b.matches !== a.matches) return b.matches - a.matches;
+        if (b.rare !== a.rare) return parseFloat(b.rare) - parseFloat(a.rare);
+        return parseFloat(b.award) - parseFloat(a.award);
     });
 }
 
@@ -370,13 +415,6 @@ function processDuploData(data) {
         }))
         .sort((a, b) => b.final_sum - a.final_sum)
         .slice(0, CONFIG.TOP_LIMIT);
-}
-
-function formatLargeNumber(num) {
-    if (num >= 1e12) return (num / 1e12).toFixed(3) + ' трлн';
-    if (num >= 1e9) return (num / 1e9).toFixed(3) + ' млрд';
-    if (num >= 1e6) return (num / 1e6).toFixed(3) + ' млн';
-    return num.toFixed(2);
 }
 
 function processReputationData(data) {
@@ -484,12 +522,8 @@ function processAwardData(data) {
     );
 
     const AWARD_GROUPS = [
-        'Honorary Designer',
-        'Honorary yupik - culture of giving',
-        'Support Reward',
-        'CEO Ring',
-        'Supporting AI research',
-        'For improving the economy'
+        'Honorary Designer', 'Patron', 'Honorary yupik - culture of giving', 'Support Reward',
+        'CEO Ring', 'Supporting AI research', 'For improving the economy'
     ];
 
     let ownerGroups = {};
@@ -524,91 +558,46 @@ function processAwardData(data) {
     });
 }
 
-function generateAllocationData() {
-    const types = ['duplo', 'reputation', 'staking', 'business', 'rare', 'award'];
-    
-    const duploOwners = new Set();
-    const duploData = processDuploData(cache.duplo);
-    duploData.forEach((item, i) => {
-        if (i < CONFIG.TOP_LIMIT) duploOwners.add(item.owner);
-    });
-    
-    const reputationData = processReputationData(cache.reputation);
-    const reputationOwners = new Set(reputationData.map(item => item.owner));
-    
-    const stakingData = processStakingData(cache.staking);
-    const stakingOwners = new Set();
-    stakingData.forEach(item => {
-        if (item.count > 10) {
-            stakingOwners.add(item.owner_id);
-        }
-    });
-    
-    const businessData = processBusinessData(cache.business);
-    const businessOwners = new Set(businessData.map(item => item.owner));
-
-    const rareData = processRareData(cache.rare);
-    const rareMap = new Map(rareData.map(item => [item.owner, item.percent]));
-
-    const awardData = processAwardData(cache.award);
-    const awardMap = new Map(awardData.map(item => [item.owner, item.awardPercent]));
-
-    const allOwners = new Set([
-        ...duploOwners,
-        ...reputationOwners,
-        ...stakingOwners,
-        ...businessOwners,
-        ...rareMap.keys(),
-        ...awardMap.keys()
-    ]);
-    
-    const allocationData = [];
-    
-    for (const owner of allOwners) {
-        const duplo = duploOwners.has(owner) ? '✅' : '';
-        const reputation = reputationOwners.has(owner) ? '✅' : '';
-        const staking = stakingOwners.has(owner) ? '✅' : '';
-        const business = businessOwners.has(owner) ? '✅' : '';
-        const rare = rareMap.get(owner) || '0%';
-        const award = awardMap.get(owner) || '0%';
-        
-        const matches = [duplo, reputation, staking, business].filter(v => v === '✅').length;
-        
-        allocationData.push({
-            owner,
-            duplo,
-            reputation,
-            staking,
-            business,
-            rare,
-            award,
-            matches
-        });
-    }
-    
-    return allocationData.sort((a, b) => {
-        if (b.matches !== a.matches) return b.matches - a.matches;
-        if (b.rare !== a.rare) return parseFloat(b.rare) - parseFloat(a.rare);
-        return parseFloat(b.award) - parseFloat(a.award);
-    });
+function showLoading() {
+    document.getElementById('loading').classList.remove('hidden');
+    document.getElementById('result').classList.add('hidden');
+    document.getElementById('no-allocation').classList.add('hidden');
 }
 
-async function refreshAllData() {
-    cache = {};
-    await loadAllData();
-    updateLastUpdated();
+function hideLoading() {
+    document.getElementById('loading').classList.add('hidden');
 }
 
-function updateLastUpdated() {
-    const now = new Date().toLocaleString('ru-RU');
-    document.getElementById('last-updated').textContent = now;
+function showResult(data) {
+    document.getElementById('result-address').textContent = data.owner;
+    document.getElementById('matches-count').textContent = data.matches;
+    
+    document.getElementById('duplo-status').textContent = data.duplo ? '✅' : '❌';
+    document.getElementById('reputation-status').textContent = data.reputation ? '✅' : '❌';
+    document.getElementById('staking-status').textContent = data.staking ? '✅' : '❌';
+    document.getElementById('business-status').textContent = data.business ? '✅' : '❌';
+    
+    document.getElementById('rare-percent').textContent = data.rare;
+    document.getElementById('award-percent').textContent = data.award;
+    
+    const chance = calculateChance(data);
+    const chanceElement = document.getElementById('chance-value');
+    chanceElement.textContent = chance.text;
+    chanceElement.className = `chance-value ${chance.class}`;
+    
+    document.getElementById('result').classList.remove('hidden');
+    document.getElementById('no-allocation').classList.add('hidden');
 }
 
-function truncateAddress(address) {
-    if (!address || address.length <= 12) return address;
-    return address.substring(0, 8) + '...' + address.slice(-4);
+function showNoAllocation() {
+    document.getElementById('no-allocation').classList.remove('hidden');
+    document.getElementById('result').classList.add('hidden');
 }
 
-setInterval(() => {
-    refreshAllData();
-}, 5 * 60 * 1000);
+function hideResult() {
+    document.getElementById('result').classList.add('hidden');
+    document.getElementById('no-allocation').classList.add('hidden');
+}
+
+// Make toggleMatches globally available for onclick
+window.toggleMatches = toggleMatches;
