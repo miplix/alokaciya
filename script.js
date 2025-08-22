@@ -27,163 +27,157 @@ const CONFIG = {
         'uncommon': 0.390625, '(common)': 0.1953125
     },
     RARE_NFT_TITLES: [
-  "Ancestral sword (mystical)"
-"Fate Generator (Unique)"
-"Kingdom (Mystical)"
-"Necklace of Elysium (Mystical)"
-"Transformer of Worlds (mystic)"
-"Very Mega Super Puper Elite Tangerines (unique)"
-"Milk giraffe (1lv) "
-"real whale (winner)"
-"Real Whale (Winner) "
-"Theatronom (unique)"
-"Universal Soul (unique)"
-"Universal Soul (unique) "
-"Yupik Slippers (Unique)"
-"YupLand Pump (Unique) "
-"1 Еon of Ether - Ancient "
-"1 Eon of Ether - Ancient"
-"2nd Eon of Ether - Ancient"
-"3rd Eon of Ether - Ancient"
-"4th Eon of Earth - The Ancient"
-"5th Eon of Ether - Ancient"
-"6th Eon of Ether - Ancient"
-"7th Eon of Ether - Ancient"
-"7th Eon of Ether - The Ancient One"
-"Black Pegasus - Unicorn (unicorn)"
-"Fiery Pegasus - Unicorn (unicorn) "
-"Fire duvet cover (unique)"
-"Golden Pegasus - Unicorn (unicorn) "
-"Honorary handshake (legendary) "
-"Key to Shambhala (Unique)"
-"Milk giraffe (1lv)"
-"Purple Pegasus - Unicorn (unicorn) "
-"Scroll of the Mage (Unique)"
-"Snow Pegasus - Unicorn (unicorn) "
-"Space - Unicorn (unicorn) "
-"Upper Upland Pass (Elite)"
-"Victory unicorn (unicorn)"
-"White Pegasus - Unicorn (unicorn) "
-"YupLand Pump (Legendary)"
-"Magic brush (unique)"
-"Swap Table (Unique)"
-"Yupik Slippers (legendary)"
-"100 pairs of slippers (common)"
-"Card Set (Legendary)"
-"Designer Worlds (unique)"
-"Door to Dreams (Epic)"
-"Magic Mantle (Unique)"
-"Moth Skeleton (Epic)"
-"Teapot - Genie Generator (rare)"
-"Yupidrasil Tree Dew (Unique)"
-"Yupik gem"
-"Yupik Slippers (Epic)"
-"Подводные очки (Легендарные)"
-"Clock - Eons (Legendary)"
-"Diploma of Strategic Magician"
-"Lots of balalaikas (useless)"
-"Magic Pot (legendary)"
-"Mountain (unique)"
-"Pug toy (unique)"
-"Universal egg (legendary)"
-"Yupik Slippers (Rare)"
-"Подъемник курса (Эпический)"
-"Great Yupik Happiness (Priceless) "
-"Lord's Bed (Epic)"
-"Magic brush (legendary)"
-"Pump power (epic)"
-"Huge Stone (Epic)"
-"Magician's Set (Unique)"
-"Morpheus Chair (Epic)"
-"Pug Kennel (legendary)"
-"Pump magic (uncommon)"
-"Reflector - solar stars (epic)"
-"Unicorn Factory (Legendary)"
-"Levitation Goggles (Legendary)"
-"5 метровый шкаф (необычный)"
-"Генератор волн (обычный)"
-"Ядро Атлантиды (Редкое)"
-"Book - Yupik Imagination (Rare)"
-"Buckwheat assembly (Legendary)"
-"Fair Dice (Rare) "
-"Fog Generator (Unique) "
-"Lamp (legendary)"
-"Lantern (legendary)"
-"Pug Bone (Epic)"
-"Speech synthesizer (epic)"
-"World Generator (Rare)"
-"Yupik Happiness (Priceless) "
-"Levitation Goggles (Epic)"
-"Stool (uncommon)"
-"Цветок Атлантиды (необычный)"
-"Air Purity Meter (Epic)"
-"Door to Sherlock's house (Rare)"
-"Lamp (Epic)"
-"Lantern (Epic)"
-"Larger Stone (Rare)"
-"Magic brush (epic)"
-"The most unusual carpet (legendary)"
-"Treat Bowl (Rare)"
-"Book - solution to conspiracies (common) "
-"Диван в форме дупла (редкий)"
-"Art school diploma"
-"Bed with a hollow (Epic)"
-"Duvet cover Magic (legendary) "
-"Lamp (rare)"
-"Lantern (rare)"
-"Levitation Goggles (Rare)"
-"Sphere - Reason (uncommon)"
-"Yup'ik Carpet (Rare)"
-"Yup'ik Chair (Rare) "
-"Yupik barrier (rare)"
-" 0A:@KBK9 10;0AB - 3C@"
-"Раскрытый баласт - 3ур"
-"Lantern (Uncommon)"
-"Levitation Goggles (Uncommon)"
-"Magic brush (rare)"
-"Talking Bed (uncommon)"
-"Table - Chestnut Generator (Rare)"
-"Arcanum Integra (clan) "
-"Artifact Dragon Tooth Stormfang (clan)"
-"Artifact with the Ixdivite crystal (clan)"
-"Astrolabes of the ancients (clan)"
-"Certificate of unknown level"
-"Duvet cover Magic (comon) "
-"Heritage of the Sun (clan)"
-"Kailani and Buckwheat (clan)"
-"Lantern (Common)"
-"Laughter Meter (clan) "
-"Levitation Goggles (Common)"
-"Magic brush (uncommon)"
-"Magic light stone (clan)"
-"Magic light stone (clan) "
-"Neuron Manas (clan) "
-"Pandora's Box (clan) "
-"Precious Fire Lantern (Clan)"
-"Reviver - grecha (uncommon)"
-"Ring of Power (clan)"
-"Sphere - Mind (common)"
-"Sphere - Mind (Normal)"
-"Sphere - Reason (common)"
-"The Deep water of Atlantis (clan)"
-"Yup'ik Chips (rare)"
-"YupElf hat (clan)"
-"Безумная Греча Кайлани (обычная)"
-"Buckwheat (rare)"
-"Duvet cover Magic (uncommon)"
-"Grecha grinder (rare)"
-"Magic brush (common)"
-"Деревянная ложка (бесполезная)"
-"Зелёный человек (Нужна защита)"
-"Chair with egg stand (unique)"
-"Glarungs (100 water)"
-"Hollow Key (Legendary)"
-"House for the Glarungs (common) "
-"Magic Slingshot (unique)"
-"Super Dupla generator +50% (epic)"
-"ticket to buy glarungs"
-"Ticket to buy Glarungs "
-"Yupik Egg (legendary) "
+  "Ancestral sword (mystical)",
+"Fate Generator (Unique)",
+"Kingdom (Mystical)",
+"Necklace of Elysium (Mystical)",
+"Transformer of Worlds (mystic)",
+"Very Mega Super Puper Elite Tangerines (unique)",
+"Milk giraffe (1lv)",
+"real whale (winner)",
+"Theatronom (unique)",
+"Universal Soul (unique)",
+"Yupik Slippers (Unique)",
+"YupLand Pump (Unique)",
+"1 Еon of Ether - Ancient",
+"2nd Eon of Ether - Ancient",
+"3rd Eon of Ether - Ancient",
+"4th Eon of Earth - The Ancient",
+"5th Eon of Ether - Ancient",
+"6th Eon of Ether - Ancient",
+"7th Eon of Ether - ",
+"Black Pegasus - Unicorn (unicorn)",
+"Fiery Pegasus - Unicorn (unicorn)",
+"Fire duvet cover (unique)",
+"Golden Pegasus - Unicorn (unicorn)",
+"Honorary handshake (legendary)",
+"Key to Shambhala (Unique)",
+"Milk giraffe (1lv)",
+"Purple Pegasus - Unicorn (unicorn)",
+"Scroll of the Mage (Unique)",
+"Snow Pegasus - Unicorn (unicorn)",
+"Space - Unicorn (unicorn)",
+"Upper Upland Pass (Elite)",
+"Victory unicorn (unicorn)",
+"White Pegasus - Unicorn (unicorn)",
+"YupLand Pump (Legendary)",
+"Magic brush (unique)",
+"Swap Table (Unique)",
+"Yupik Slippers (legendary)",
+"100 pairs of slippers (common)",
+"Card Set (Legendary)",
+"Designer Worlds (unique)",
+"Door to Dreams (Epic)",
+"Magic Mantle (Unique)",
+"Moth Skeleton (Epic)",
+"Teapot - Genie Generator (rare)",
+"Yupidrasil Tree Dew (Unique)",
+"Yupik gem",
+"Yupik Slippers (Epic)",
+"Подводные очки (Легендарные)",
+"Clock - Eons (Legendary)",
+"Diploma of Strategic Magician",
+"Lots of balalaikas (useless)",
+"Magic Pot (legendary)",
+"Mountain (unique)",
+"Pug toy (unique)",
+"Universal egg (legendary)",
+"Yupik Slippers (Rare)",
+"Подъемник курса (Эпический)",
+"Great Yupik Happiness (Priceless) ",  //////// Great Yupik Happiness (Priceless)
+"Lord's Bed (Epic)",
+"Magic brush (legendary)",
+"Pump power (epic)",
+"Huge Stone (Epic)",
+"Magician's Set (Unique)",
+"Morpheus Chair (Epic)",
+"Pug Kennel (legendary)",
+"Pump magic (uncommon)",
+"Reflector - solar stars (epic)",
+"Unicorn Factory (Legendary)",
+"Levitation Goggles (Legendary)",
+"5 метровый шкаф (необычный)",
+"Генератор волн (обычный)",
+"Ядро Атлантиды (Редкое)",
+"Book - Yupik Imagination (Rare)",
+"Buckwheat assembly (Legendary)",
+"Fair Dice (Rare)",
+"Fog Generator (Unique)",
+"Lamp (legendary)",
+"Lantern (legendary)",
+"Pug Bone (Epic)",
+"Speech synthesizer (epic)",
+"World Generator (Rare)",
+"Yupik Happiness (Priceless)",
+"Levitation Goggles (Epic)",
+"Stool (uncommon)",
+"Цветок Атлантиды (необычный)",
+"Air Purity Meter (Epic)",
+"Door to Sherlock's house (Rare)",
+"Lamp (Epic)",
+"Lantern (Epic)",
+"Larger Stone (Rare)",
+"Magic brush (epic)",
+"The most unusual carpet (legendary)",
+"Treat Bowl (Rare)",
+"Book - solution to conspiracies (common) ",  //////// Book - solution to conspiracies (common)
+"Диван в форме дупла (редкий)",
+"Art school diploma",
+"Bed with a hollow (Epic)",
+"Duvet cover Magic (legendary)",
+"Lamp (rare)",
+"Lantern (rare)",
+"Levitation Goggles (Rare)",
+"Sphere - Reason (uncommon)",
+"Yup'ik Carpet (Rare)",
+"Yup'ik Chair (Rare)",
+"Yupik barrier (rare)",
+" 0A:@KBK9 10;0AB - 3C@",  //////0A:@KBK9 10;0AB - 3C@
+"Раскрытый баласт - 3ур",
+"Lantern (Uncommon)",
+"Levitation Goggles (Uncommon)",
+"Magic brush (rare)",
+"Talking Bed (uncommon)",
+"Table - Chestnut Generator (Rare)",
+"Arcanum Integra (clan) ",  ///////
+"Artifact Dragon Tooth Stormfang (clan)",
+"Artifact with the Ixdivite crystal (clan)",
+"Astrolabes of the ancients (clan)",
+"Certificate of unknown level",
+"Duvet cover Magic (comon)",
+"Heritage of the Sun (clan)",
+"Kailani and Buckwheat (clan)",
+"Lantern (Common)",
+"Laughter Meter (clan)",
+"Levitation Goggles (Common)",
+"Magic brush (uncommon)", 
+"Magic light stone (clan)",
+"Neuron Manas (clan)",
+"Pandora's Box (clan)",
+"Precious Fire Lantern (Clan)",
+"Reviver - grecha (uncommon)",
+"Ring of Power (clan)",
+"Sphere - Mind",
+"Sphere - Reason (common)",
+"The Deep water of Atlantis (clan)",
+"Yup'ik Chips (rare)",
+"YupElf hat (clan)",
+"Безумная Греча Кайлани (обычная)",
+"Buckwheat (rare)",
+"Duvet cover Magic (uncommon)",
+"Grecha grinder (rare)",
+"Magic brush (common)",
+"Деревянная ложка (бесполезная)",
+"Зелёный человек (Нужна защита)",
+"Chair with egg stand (unique)",
+"Glarungs (100 water)",
+"Hollow Key (Legendary)",
+"House for the Glarungs (common)",
+"Magic Slingshot (unique)",
+"Super Dupla generator +50% (epic)",
+"ticket to buy glarungs",
+"Yupik Egg (legendary) ",
+"Yupik Egg (legendary)"
     ]
 };
 
